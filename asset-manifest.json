@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://lvelosuarez.github.io/csb-du9swc/static/css/main.734056fd.chunk.css",
+    "main.js": "https://lvelosuarez.github.io/csb-du9swc/static/js/main.430921d9.chunk.js",
+    "main.js.map": "https://lvelosuarez.github.io/csb-du9swc/static/js/main.430921d9.chunk.js.map",
+    "runtime-main.js": "https://lvelosuarez.github.io/csb-du9swc/static/js/runtime-main.c7f16a48.js",
+    "runtime-main.js.map": "https://lvelosuarez.github.io/csb-du9swc/static/js/runtime-main.c7f16a48.js.map",
+    "static/js/2.b9213c3d.chunk.js": "https://lvelosuarez.github.io/csb-du9swc/static/js/2.b9213c3d.chunk.js",
+    "static/js/2.b9213c3d.chunk.js.map": "https://lvelosuarez.github.io/csb-du9swc/static/js/2.b9213c3d.chunk.js.map",
+    "index.html": "https://lvelosuarez.github.io/csb-du9swc/index.html",
+    "static/css/main.734056fd.chunk.css.map": "https://lvelosuarez.github.io/csb-du9swc/static/css/main.734056fd.chunk.css.map",
+    "static/js/2.b9213c3d.chunk.js.LICENSE.txt": "https://lvelosuarez.github.io/csb-du9swc/static/js/2.b9213c3d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c7f16a48.js",
+    "static/js/2.b9213c3d.chunk.js",
+    "static/css/main.734056fd.chunk.css",
+    "static/js/main.430921d9.chunk.js"
+  ]
+}
